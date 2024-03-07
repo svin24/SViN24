@@ -1,4 +1,7 @@
-### Hi there 👋
+### svin's dev zone 🇬🇷
+
+📚 - Currently learning fullstack development using Java/Go and eventually React.
+💼 - Looking for an entry level job! Please contact me!
 
 <!--
 **SViN24/SViN24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
