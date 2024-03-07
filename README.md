@@ -1,6 +1,6 @@
 ![banner](./banner.jpg)
-### svin's dev zone 🇬🇷
 
+- 🇬🇷 Junior Dev
 - 📚 Currently learning fullstack development using Java/Go and eventually React.
 - 💼 Looking for an entry level job! Please contact me!
 
