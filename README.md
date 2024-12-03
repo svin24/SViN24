@@ -1,7 +1,7 @@
 ![banner](./banner.jpg)
 
 - 🇬🇷 Junior Dev
-- 📚 Currently learning fullstack development using Java/Go and eventually some front end. Though I personally prefer doing things in backend.
+- 📚 Currently learning fullstack development using Go and eventually some front end. Though I personally prefer doing things in backend.
 - 💼 Looking for an entry level job! Please contact me! Email: svin.mail.24@gmail.com
 
 <!--
