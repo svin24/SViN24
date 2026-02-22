@@ -1,8 +1,9 @@
 ![banner](./banner.jpg)
 
-- 🇬🇷 Junior Dev
-- 📚 Currently learning fullstack development using Go and eventually some front end. Though I personally prefer doing things in backend.
-- 💼 Looking for an entry level job! Please contact me! Email: svin.mail.24@gmail.com
+- 🇬🇷 Dev
+- 📚 Currently reading Medications by Marcus Aurelius
+- 💼 Development/Partial work email: svin.mail.24@gmail.com
+- 🧊 Slowly moving everything to codeberg: https://codeberg.org/svin
 
 <!--
 **SViN24/SViN24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
